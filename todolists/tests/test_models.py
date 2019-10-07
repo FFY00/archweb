@@ -1,4 +1,4 @@
-from todolists.tests.conftest import NAME, RAW
+from todolists.tests.conftest import NAME
 
 
 def test_stripped_description(todolist):
